@@ -3,4 +3,5 @@ from .models import *
 
 # Register your models here.
 
-admin.site.register(PhoneNumbers)
+admin.site.register(PhoneNumber)
+admin.site.register(Children)
